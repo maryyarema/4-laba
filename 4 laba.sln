@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 laba", "4 laba\4 laba.csproj", "{E9FF30B7-FEDA-41CB-9FDD-DC6CDA547D3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 laba", "4 laba\4 laba.csproj", "{E9FF30B7-FEDA-41CB-9FDD-DC6CDA547D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{930DA088-4AD4-413B-BC81-A58440A5E887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1", "1\1.csproj", "{930DA088-4AD4-413B-BC81-A58440A5E887}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal Farm", "Animal Farm\Animal Farm.csproj", "{4ECB6392-29C2-4C8C-8082-7E02414145B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Box", "Class Box\Class Box.csproj", "{C61526A2-0925-4FC8-8DF9-C6000EF02CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Class Box Data Validation", "2. Class Box Data Validation\2. Class Box Data Validation.csproj", "{46F52086-D2CF-4D5F-9EA8-1978E4B3E013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{930DA088-4AD4-413B-BC81-A58440A5E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930DA088-4AD4-413B-BC81-A58440A5E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930DA088-4AD4-413B-BC81-A58440A5E887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECB6392-29C2-4C8C-8082-7E02414145B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECB6392-29C2-4C8C-8082-7E02414145B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECB6392-29C2-4C8C-8082-7E02414145B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECB6392-29C2-4C8C-8082-7E02414145B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61526A2-0925-4FC8-8DF9-C6000EF02CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61526A2-0925-4FC8-8DF9-C6000EF02CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61526A2-0925-4FC8-8DF9-C6000EF02CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61526A2-0925-4FC8-8DF9-C6000EF02CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F52086-D2CF-4D5F-9EA8-1978E4B3E013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F52086-D2CF-4D5F-9EA8-1978E4B3E013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F52086-D2CF-4D5F-9EA8-1978E4B3E013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F52086-D2CF-4D5F-9EA8-1978E4B3E013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
